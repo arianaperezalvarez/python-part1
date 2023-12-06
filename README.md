@@ -1,2 +1,2 @@
 # python-part1
-A taste of Python
+Lab 7
